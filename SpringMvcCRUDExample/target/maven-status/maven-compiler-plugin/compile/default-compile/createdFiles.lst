@@ -1,0 +1,10 @@
+com\springmvc_crud\model\User.class
+com\springmvc_crud\dao\UserDaoImpl$1.class
+com\springmvc_crud\controller\UserController.class
+com\springmvc_crud\config\WebInitializer.class
+com\springmvc_crud\config\WebConfig.class
+com\springmvc_crud\service\UserServiceImpl.class
+com\springmvc_crud\service\UserService.class
+com\springmvc_crud\dao\UserDaoImpl.class
+com\springmvc_crud\dao\UserDao.class
+com\springmvc_crud\dao\UserDaoImpl$UserMapper.class
